@@ -1,0 +1,14 @@
+{
+    "name": "ipngabii/bitophpbe",
+    "description": "PHP Backend with MySql for C# project",
+    "authors": [
+        {
+            "name": "Szabo Gabor Endre",
+            "email": "szabo.gabor.com@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.0",
+        "catfan/Medoo": "^1.5"
+    }
+}
