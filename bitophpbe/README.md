@@ -1,6 +1,6 @@
-#[HU]C# kérés küldése webszervernek
+# [HU]C# kérés küldése webszervernek
 
-##[HU]Szükséges csomagok fájlok
+## [HU]Szükséges csomagok fájlok
 * _WEB_
   * [Virtual box](https://www.virtualbox.org/wiki/Downloads)
   * [Vagrant](https://www.vagrantup.com/downloads.html)
